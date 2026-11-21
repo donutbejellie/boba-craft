@@ -4,7 +4,8 @@ A simple bubble tea UI made with HTML5, CSS, and JavaScript.
 
 ## What's Inside
 - 6 teas you can click to customize
-- A cart drawer
+- Teas that add visuals when customizing
+- A checkout slide
 - A boba splash pad game at the bottom
 
 ## How to Run
