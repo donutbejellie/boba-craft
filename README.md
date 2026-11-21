@@ -11,7 +11,7 @@ A simple bubble tea UI made with HTML5, CSS, and JavaScript.
 Put `index.html`, `index.css`, and `index.js` in the same folder and open `index.html` in your browser.
 
 ## Live Site
-`https://donutbejellie.github.io/boba-craft/`
+- Currently not live.
 
 ## Made By
 Built by Jessi Jay Boyda using CSS, HTML5, and JavaScript.
